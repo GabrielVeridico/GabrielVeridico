@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working on some personal projects to deepning my knowledgment in Full-stack software development;
-- 🌱 I’m currently learning React and Ruby on rails;
+- 🌱 I’m currently learning Javascript, React and Ruby on rails;
 - 👯 I’m looking to collaborate on web-sites projects;
 - 🤔 I’m looking for help with getting start a first experience IT job;
 - 📫 How to reach me: 
