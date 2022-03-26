@@ -10,6 +10,6 @@
   - :love_letter: gabrielvmarra1@hotmail.com
 - 😄 Pronouns: He/His
 
-[![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielVeridico&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielVeridico&theme=dark&show_icons=true&&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielVeridico&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielVeridico&theme=dark&lang_count=8)](https://github.com/anuraghazra/github-readme-stats)
