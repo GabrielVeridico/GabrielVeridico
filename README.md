@@ -1,16 +1,15 @@
-### Hi there 👋
+## Hi there 👋
 
-<!--
-**GabrielVeridico/GabrielVeridico** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on some personal projects to deepning my knowledgment in Full-stack software development;
+- 🌱 I’m currently learning React and Ruby on rails;
+- 👯 I’m looking to collaborate on web-sites projects;
+- 🤔 I’m looking for help with getting start a first experience IT job;
+- 📫 How to reach me: 
+  - [![Linkedin](https://i.stack.imgur.com/gVE0j.png) Gabriel Veríssimo](https://www.linkedin.com/in/gabriel-ver%C3%ADssimo/)
+  - :love_letter: gabrielvmarra1@hotmail.com
+- 😄 Pronouns: He/His
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielVeridico&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielVeridico&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
